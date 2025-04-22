@@ -1,4 +1,4 @@
-# Welcome！<img src="">
+# Welcome！
 
 𝗜'𝗺 [Oscar](https://github.com/OscarAT1984)！𝗜'𝗺 𝗮 Data Scientist 👨‍💻 𝘄𝗵𝗼 **technology is magic**
 
