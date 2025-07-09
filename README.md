@@ -19,9 +19,9 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Oscar Tellez LinkedIn Profile" height="30" width="30">
   </a>
   
-  <a href="">
+ <!-- <a href="">
     <img src="" alt="" height="30" width="30">
-  </a>
+  </a> -->
 </p>
 
 <h2 align="center">My stack</h2>
@@ -39,6 +39,7 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{OscarAT1984}/count.svg" alt="BernardoAguayoOrtega :: Visitor's Count" /></p>
+<p>![Visitor Count](https://profile-counter.glitch.me/{OscarAT1984}/count.svg)</p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
